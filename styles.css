@@ -44,6 +44,7 @@
     font-size: 18px;
     font-weight: E5E7EB;
     margin-left: 4px;
+    text-align: left;
   }
   a{
     text-decoration: none;
@@ -72,6 +73,29 @@
   .first-img
   {
     display: flex;
-    margin-right: 80px;
+    margin-right: 4px;
   }
-  
+  .rand-info
+  {
+    text-align: center;
+  }
+  .rand-title
+  {
+    
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    font-weight: 1F2937;
+    font-size: 38px;
+  }
+  .rand-texts
+  {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+  }
+  .info{
+   max-width: 120px;
+   gap: 5px;
+   text-align: center; 
+  }
